@@ -15,4 +15,4 @@
 * Evaluation metrics: f1-score of 70%
 
 ## Hyper-parameter tuning:
-* Reducing overfitting by specifying max_depth, accuracy incresed to 83%
+* Reducing overfitting by specifying max_depth, accuracy incresed to 83%.
